@@ -655,6 +655,26 @@ footer{
    transform: translateY(-7px);  
 }
 
+.social-links .fas
+{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid var(--main-color);
+    margin: 40px 5px 0;
+    margin-bottom: 23px;
+    color: var(--main-color);
+    cursor: pointer;
+    transition: .5s;
+}
+.social-links .fas:hover
+{
+   background: var(--main-color);
+   color: #fff;
+   transform: translateY(-7px);  
+}
+
 footer a:visited{
     color: #fff;
     text-decoration: none;
