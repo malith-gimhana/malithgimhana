@@ -291,9 +291,12 @@ section{
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span{
-    width: 5%;
+    width: 6%;
 }
 
+.about .row .box:nth-child(1) .progress:nth-child(6) .bar span{
+    width: 5%;
+}
 
 .about .row .box .exp-box{
     padding: 0 1.8rem;
