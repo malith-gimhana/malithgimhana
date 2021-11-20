@@ -1509,3 +1509,24 @@ section ul li.active{
 .copyright a:hover{
     color: var(--main-color);
 }
+
+.all-btn{
+    text-align: center;
+    align-items: center;
+    color: var(--main-color);
+    border: 1px solid var(--white-alpha-40);
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    background-color: var(--white-alpha-25);
+}
+.all-btn:hover{
+    background-color: var(--main-color);
+    opacity: 0.7;
+    color: var(--white);
+    transition: all 0.3s;
+}
+.section-title .all-text{
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
