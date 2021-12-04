@@ -1530,3 +1530,9 @@ section ul li.active{
     margin-bottom: 20px;
     text-transform: capitalize;
 }
+
+
+.none{
+    color: transparent;
+    cursor: default;
+}
